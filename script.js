@@ -1,0 +1,5 @@
+const testmonialContainer = document.querySelector('.testmonial-container')
+const testmonial= document.querySelector('.testinomial')
+const userImage=document.querySelector('.user-image')
+const username=document.querySelector('.username')
+const role=document.querySelector('.role')
